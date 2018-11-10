@@ -5,7 +5,7 @@ const Header = props => (
   <header className="header">
 
    
- <img class="pokemon" src= "/assets/images/Pokmon.png"/>
+ <img class="pokemon" src= "/build/assets/images/Pokmon.png"/>
   </header>
 );
 

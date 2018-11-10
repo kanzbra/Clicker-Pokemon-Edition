@@ -1,77 +1,77 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/sandshrew.png",
+      "image": "/build/assets/images/sandshrew.png",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/rattata.png",
+      "image": "/build/assets/images/rattata.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/pikachu.png",
+      "image": "/build/assets/images/pikachu.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/pidgey.png",
+      "image": "/build/assets/images/pidgey.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "/assets/images/oddish.png",
+      "image": "/build/assets/images/oddish.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "/assets/images/bulbasaur.png",
+      "image": "/build/assets/images/bulbasaur.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/assets/images/caterpie.png",
+      "image": "/build/assets/images/caterpie.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/charmander.png",
+      "image": "/build/assets/images/charmander.png",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "/assets/images/clefairy.png",
+      "image": "/build/assets/images/clefairy.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "/assets/images/ekans.png",
+      "image": "/build/assets/images/ekans.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "/assets/images/jigglypuff.png",
+      "image": "/build/assets/images/jigglypuff.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "/assets/images/nidoran.png",
+      "image": "/build/assets/images/nidoran.png",
       "clicked": false
     },
     {
         "id": 13,
-        "image": "/assets/images/squirtle.png",
+        "image": "/build/assets/images/squirtle.png",
         "clicked": false
       },
       {
         "id": 14,
-        "image": "/assets/images/vulpix.png",
+        "image": "/build/assets/images/vulpix.png",
         "clicked": false
       },
       {
         "id": 15,
-        "image": "/assets/images/weedle.png",
+        "image": "/build/assets/images/weedle.png",
         "clicked": false
       }
   ]

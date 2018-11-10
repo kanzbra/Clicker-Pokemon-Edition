@@ -7,7 +7,7 @@
     padding-bottom: 80px;
     width: 90%;
     margin: 0 auto;
-    background-image: url("/assets/images/poemonwall.png");
+    background-image: url("/build/assets/images/poemonwall.png");
     background-size: cover;
     background-image: no-repeat;
 
