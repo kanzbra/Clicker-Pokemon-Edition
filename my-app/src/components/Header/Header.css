@@ -1,0 +1,16 @@
+.header {
+    background-color: black;
+    background-image: url("/assets/images/catch.png");
+    background-repeat: no-repeat;
+    color: white;
+    background-position: center;
+    padding: 180px 20px; 
+    padding-bottom: 210px;
+    text-align: center;
+  }
+  
+ .pokemon {
+    margin-top:70px;
+    
+  }
+  
